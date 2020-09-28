@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Evaluacion1-2020</string>
+    <string name="b">Bienvenidos!</string>
+    <string name="nuevo">Nuevo estudiante</string>
+    <string name="lista">Lista de estudiantes</string>
+    <string name="ds">Desarrollado por:</string>
+    <string name="name">Edwin Efrain Hernandez Navarrete</string>
+    <string name="ce">HN17-I04-001</string>
+
+    <string name="add">Agregar</string>
+    <string name="pro">Procesar</string>
+
+
+
+
+
+</resources>
