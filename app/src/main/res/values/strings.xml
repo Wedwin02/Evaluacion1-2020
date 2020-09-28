@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Evaluacion1-2020</string>
-    <string name="b">Bienvenidos!</string>
+    <string name="b">Bienvenido!</string>
     <string name="nuevo">Nuevo estudiante</string>
     <string name="lista">Lista de estudiantes</string>
     <string name="ds">Desarrollado por:</string>
